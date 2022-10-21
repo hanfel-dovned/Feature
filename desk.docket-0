@@ -1,0 +1,9 @@
+:~  title+'Feature'
+    info+'Post webpages to the public internet.'
+    color+0xf9.f5ec
+    base+'feature'
+    site+/apps/feature
+    version+[0 1 0]
+    website+'https://urbit.org'
+    license+'MIT'
+==
