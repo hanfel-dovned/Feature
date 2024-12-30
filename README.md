@@ -1,1 +1,1 @@
-Initial implementation of [Other-Life/page](https://github.com/hanfel-dovned/page) bounty.
+Initial implementation of [Other-Life/page](https://github.com/hanfel-dovned/page) bounty. Mostly deprecated by `%page`, though [this tutorial](https://web.archive.org/web/20240722171052/https://developers.urbit.org/guides/additional/app-workbook/feature) is still useful.
